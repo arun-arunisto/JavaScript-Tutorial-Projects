@@ -24,6 +24,8 @@ screen shots:
 - For the memes we are using a api <a>https://github.com/D3vd/Meme_Api</a>
 - by using this app you can generate memes by just clicking the button
 
+screenshots:
+
 ![Screenshot (96)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/88a32338-be06-4823-96ca-f9af2395959e)
 
 
