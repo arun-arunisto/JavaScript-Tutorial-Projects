@@ -19,5 +19,15 @@ screen shots:
 
 ![Screenshot (95)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/4e4e2ba0-0cdc-4996-9c3d-f95c6c5aa567)
 
+## 3. MEME GENERATOR
+- A meme generator application using JavaSript, HTML, CSS
+- For the memes we are using a api <a>https://github.com/D3vd/Meme_Api</a>
+- by using this app you can generate memes by just clicking the button
+
+![Screenshot (96)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/88a32338-be06-4823-96ca-f9af2395959e)
+
+
+
+
 
 
