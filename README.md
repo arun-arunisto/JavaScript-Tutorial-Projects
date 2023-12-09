@@ -28,6 +28,14 @@ screenshots:
 
 ![Screenshot (96)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/88a32338-be06-4823-96ca-f9af2395959e)
 
+## 4. MUSIC PLAYER
+- A music player application using HTML, CSS, JavaSript
+
+screenshots:
+
+![Screenshot (114)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/58222100-c41f-4032-9a80-8ea21b470b35)
+
+
 
 
 
