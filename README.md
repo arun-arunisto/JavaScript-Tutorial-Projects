@@ -20,7 +20,7 @@ screen shots:
 ![Screenshot (95)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/4e4e2ba0-0cdc-4996-9c3d-f95c6c5aa567)
 
 ## 3. MEME GENERATOR
-- A meme generator application using JavaSript, HTML, CSS
+- A meme generator application using JavaScript, HTML, CSS
 - For the memes we are using a api <a>https://github.com/D3vd/Meme_Api</a>
 - by using this app you can generate memes by just clicking the button
 
@@ -29,11 +29,19 @@ screenshots:
 ![Screenshot (96)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/88a32338-be06-4823-96ca-f9af2395959e)
 
 ## 4. MUSIC PLAYER
-- A music player application using HTML, CSS, JavaSript
+- A music player application using HTML, CSS, JavaScript
 
 screenshots:
 
 ![Screenshot (114)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/58222100-c41f-4032-9a80-8ea21b470b35)
+
+## 5. ANALOG CLOCK
+- Analog clock using HTML, CSS, JavaScript
+
+screenshots:
+
+
+![Screenshot (130)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/b69b5ba9-4d2f-47bf-964a-6562755b39ff)
 
 
 
