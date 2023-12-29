@@ -40,8 +40,18 @@ screenshots:
 
 screenshots:
 
-
 ![Screenshot (130)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/b69b5ba9-4d2f-47bf-964a-6562755b39ff)
+
+## 6. DIGITAL CLOCK
+- Digital clock using HTML, CSS, JavaScript
+
+screenshots:
+
+![Screenshot (132)](https://github.com/arun-arunisto/JavaScript-Tutorial-Projects/assets/86800553/9e1cdf1b-81af-49d2-98d7-83efd646ecf8)
+
+
+
+
 
 
 
